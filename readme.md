@@ -1,4 +1,3 @@
-```
 # Multi-Agent Customer Service System - A2A ADK MCP Implementation
 
 ## Overview
